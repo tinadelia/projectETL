@@ -6,7 +6,7 @@
 This repo uses information on the GPD, industry, health life expectancy, and happiness of the world's nations, to see how they may interact with one another.  
 
 ----
-## Dependancies
+## Dependencies
 
 * psycopg2
 * pandas
@@ -31,7 +31,7 @@ Data Sources:
 
 * [World Happiness Statistics For 2017](https://www.kaggle.com/unsdsn/world-happiness)   
 
-* [Country Geo Data](https://www.kaggle.com/theworldbank/world-bank-gdp-ranking#gdp-csv-.csv)   
+* [Countries of the world](https://www.kaggle.com/fernandol/countries-of-the-world)   
 
 ----
 ## Technical Evaluation
